@@ -1,0 +1,7 @@
+home_safety_image {
+    images url('../images/AtvTrails_home.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
